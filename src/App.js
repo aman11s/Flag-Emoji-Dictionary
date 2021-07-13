@@ -299,7 +299,7 @@ export default function App() {
       <main>
         <input
           onChange={inputEmojiHandler}
-          placeholder="Enter country flag country emoji"
+          placeholder="Enter country flag emoji"
         />
         <h2 className="meaning">{meaning}</h2>
         <div>
