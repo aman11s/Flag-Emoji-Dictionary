@@ -25,4 +25,8 @@ This WebApp gives you the name of the country when you click on the flag.
 
 ---
 
+### Live project link: [Click Here](https://qh7ty.csb.app "Food Emoji")
+
+---
+
 ### If you like this repository please give a ⭐ in the top right corner. 😊
